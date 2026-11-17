@@ -1,0 +1,50 @@
+# Cache & folder otomatis Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Pp]rofilerCaptures/
+
+# File hasil build & folder backup IL2CPP
+*.apk
+*.aab
+*.app/
+*.exe
+*.ipa
+*.dmg
+*.zip
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# File IDE & sistem macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# File tes sementara
+Assets/Resources/PerformanceTestRunInfo.json
+Assets/Resources/PerformanceTestRunInfo.json.meta
+Assets/Resources/PerformanceTestRunSettings.json
+Assets/Resources/PerformanceTestRunSettings.json.meta
